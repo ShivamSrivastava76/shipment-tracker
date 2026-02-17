@@ -28,5 +28,5 @@ A full-stack shipment tracking application built with Laravel.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shipment-tracker.git
+   https://github.com/ShivamSrivastava76/shipment-tracker.git
    cd shipment-tracker
